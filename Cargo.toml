@@ -1,0 +1,10 @@
+[package]
+name = "imaginarium"
+version = "0.1.0"
+authors = ["José Filipe <jn_filipe@hotmail.com>"]
+
+[dependencies]
+
+
+[dependencies.compositio]
+git = "https://github.com/Perspectiva-rs/compositio"
